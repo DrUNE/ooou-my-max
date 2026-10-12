@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Vitest reports and artifacts
+.vitest/
+
+*storybook.log
+storybook-static
+
+.claude
